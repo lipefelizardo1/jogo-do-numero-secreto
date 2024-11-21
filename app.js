@@ -54,6 +54,9 @@ function gerarNumeroAleatorio() {
         listaDeNumerosSorteados.push(numeroEscolhido);
         console.log(listaDeNumerosSorteados)
         return numeroEscolhido;
+        
+        console.log("Número secreto:", numeroEscolhido);
+
     }
 }
 
